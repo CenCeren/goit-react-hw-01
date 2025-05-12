@@ -1,0 +1,25 @@
+{
+  "hash": "9d0fc0fb",
+  "configHash": "68ab9a90",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "1ab15d5e",
+  "optimized": {
+    "axios": {
+      "src": "../../masaüstü/Cinemania/node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "0a6dc640",
+      "needsInterop": false
+    },
+    "simplelightbox": {
+      "src": "../../masaüstü/goit-js-hw-09/node_modules/simplelightbox/dist/simple-lightbox.modules.js",
+      "file": "simplelightbox.js",
+      "fileHash": "e993cef3",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-HKJ2B2AA": {
+      "file": "chunk-HKJ2B2AA.js"
+    }
+  }
+}
